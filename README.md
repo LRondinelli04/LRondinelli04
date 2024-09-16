@@ -7,11 +7,31 @@
 
 ## 🔥 Repositorios Destacados
 
-- [![Desarrollo_Web](https://github-readme-stats.vercel.app/api/pin/?username=LRondinelli04&repo=Desarrollo_Web&theme=dark)](https://github.com/LRondinelli04/Desarrollo_Web)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/LRondinelli04/Desarrollo_Web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LRondinelli04&repo=Desarrollo_Web&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/LRondinelli04/Licenciatura-en-Sistemas_APU">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LRondinelli04&repo=Licenciatura-en-Sistemas_APU&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/LRondinelli04/Fiscalia-de-Estado">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LRondinelli04&repo=Fiscalia-de-Estado&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <!-- Agrega más repositorios destacados aquí si es necesario -->
+    </td>
+  </tr>
+</table>
 
-- [![Licenciatura-en-Sistemas_APU](https://github-readme-stats.vercel.app/api/pin/?username=LRondinelli04&repo=Licenciatura-en-Sistemas_APU&theme=dark)](https://github.com/LRondinelli04/Licenciatura-en-Sistemas_APU)
-
-- [![Fiscalia-de-Estado](https://github-readme-stats.vercel.app/api/pin/?username=LRondinelli04&repo=Fiscalia-de-Estado&theme=dark)](https://github.com/LRondinelli04/Fiscalia-de-Estado)
 
 
 
