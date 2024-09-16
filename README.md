@@ -11,7 +11,7 @@
 
 - [![Licenciatura-en-Sistemas_APU](https://github-readme-stats.vercel.app/api/pin/?username=LRondinelli04&repo=Licenciatura-en-Sistemas_APU&theme=dark)](https://github.com/LRondinelli04/Licenciatura-en-Sistemas_APU)
 
-- [!Fiscalia-de-Estado](https://github-readme-stats.vercel.app/api/pin/?username=LRondinelli04&repo=Fiscalia-de-Estado&theme=dark&title_color=ff5733&text_color=c9c9c9&bg_color=0d1117)](https://github.com/LRondinelli04/Fiscalia-de-Estado)
+- [![Fiscalia-de-Estado](https://github-readme-stats.vercel.app/api/pin/?username=LRondinelli04&repo=Fiscalia-de-Estado&theme=dark&title_color=ff5733&text_color=c9c9c9&bg_color=0d1117)](https://github.com/LRondinelli04/Fiscalia-de-Estado)
 
 
 
