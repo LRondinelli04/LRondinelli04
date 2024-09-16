@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://mi-imagen-url/banner.png" alt="Lucas Rondinelli - Desarrollador Web" />
+</p>
+
 ## 📊 Mis Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LRondinelli04&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
 
