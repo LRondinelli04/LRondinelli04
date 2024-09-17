@@ -44,7 +44,8 @@
       </a>
     </td>
     <td>
-      <!-- Agrega más repositorios destacados aquí si es necesario -->
+      <a href="https://github.com/LRondinelli04/porfolio.dev">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LRondinelli04&repo=porfolio.dev&theme=dark" />
     </td>
   </tr>
 </table>
