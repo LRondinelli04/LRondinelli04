@@ -1,11 +1,11 @@
 <table>
   <tr>
     <td>
-      ## 📊 Mis Estadísticas de GitHub
+      <h2> ## 📊 Mis Estadísticas de GitHub </h2> 
       ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LRondinelli04&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
    </td>
     <td>
-      ## 🔥 Lenguajes Más Usados
+      <h2> ## 🔥 Lenguajes Más Usados </h2>
       ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LRondinelli04&layout=compact&theme=dark&count_private=true&size_weight=0.5&count_weight=0.5&langs_count=50)      
     </td>
   </tr>
