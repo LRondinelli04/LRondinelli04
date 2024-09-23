@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h2> ## 📊 Mis Estadísticas de GitHub </h2> 
-      ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LRondinelli04&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
+      <a href=![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LRondinelli04&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)>
    </td>
     <td>
       <h2> ## 🔥 Lenguajes Más Usados </h2>
