@@ -50,6 +50,15 @@
   </tr>
 </table>
 
+# Portfolio Personal
+
+<div align="center" style="margin: 20px 0;">
+  <a href="https://portfolio-dev-nine-pi.vercel.app/">
+    <img src="./public/portfolio.jpg" alt="Portfolio de LRondinelli04" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+  </a>
+  <p></p>
+</div>
+
 ## 📫 Contacto
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rondinelli-9b83a9267)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LRondinelli04)
