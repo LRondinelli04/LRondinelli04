@@ -53,7 +53,7 @@
 ## 💼 Portfolio Personal
 
 <div align="center" style="margin: 20px 0;">
-  <a href="[https://portfolio-dev-nine-pi.vercel.app/](https://my-portfolio-ashy-tau-74.vercel.app/)">
+  <a href="https://my-portfolio-ashy-tau-74.vercel.app/">
     <img src="./public/portfolio.jpg" alt="Portfolio de LRondinelli04" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
   </a>
   <p></p>
